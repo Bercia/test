@@ -16,6 +16,9 @@ public class Test
             System.out.println(s);
             System.out.println(s);
 
+            new String("Test GitHub Desktop");
+            new String ("To jest drugi test GitHub Desktop");
+
             // Nowy komentarz
             // Pisze z githaba
 
